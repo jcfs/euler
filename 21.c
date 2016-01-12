@@ -15,7 +15,6 @@ int sum_d(int n) {
   return sum-n;
 }
 
-
 int main(int argc, char ** argv) {
 
   int s = 0;
