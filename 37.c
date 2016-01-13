@@ -57,7 +57,6 @@ int main(int argc, char ** argv) {
         printf("\n  ");
       }
 
-
       if (f) {
         l = truncate_left(i, 10);
         while(l) {
